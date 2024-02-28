@@ -21,7 +21,7 @@ _Способ связи mki554693@gmail.com_
 #### Мои работы.
 1. Тест-кейс блокнота. 
 https://docs.google.com/spreadsheets/d/1KUQ3xvFa23u74PuPIHOYa-ngkBWLTbZ06Dg8_6b3tQU/edit#gid=0
-2. Баг-репорт, баги выялены благодаря Postman. 
+2. Баг-репорт, баги выявлены благодаря Postman. 
 https://docs.google.com/spreadsheets/d/1LjlbhC3BgtvazKKYTRMPAOAs4GFtyfQaQSGlEEuzpEQ/edit#gid=0 
 3. Тестирование юзабилити.
 https://docs.google.com/spreadsheets/d/1KD2fT61B4c8rIJkoCIMmKaGaaAlpcLWcBEISUBts0aE/edit#gid=1439482837 
